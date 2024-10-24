@@ -44,7 +44,7 @@ function App() {
     <div className="app">
       <div className="title">
         <h1>Todo List</h1>
-        <img src="/public/to-do.svg" alt="note" />
+        <img src="/public/list.png" alt="note" />
       </div>
 
       <div className="input-container">
